@@ -1,0 +1,7 @@
+install rpcbind rpcgen
+
+rpc
+http://docs.freebsd.org/44doc/psd/22.rpcgen/paper.pdf
+
+ubuntu trouble shooting
+http://shoot/patches.openembedded.org/patch/12743
